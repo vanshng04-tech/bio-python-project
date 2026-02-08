@@ -25,5 +25,28 @@ All automated results were manually curated following best practices for homolog
 - **InterPro IDs**: IPR000747; IPR017970; IPR050720  
 - **Cellular localization**: Nucleus  
 - **Function**: Sequence-specific DNA-binding transcription factor  
-- **GO evid**
+- **GO evidence**: IEA (Inferred from Electronic Annotation)
+
+---
+
+## Gene Ontology Annotation
+Curated, non-redundant GO terms retained after manual filtering:
+
+- GO:0000981 – sequence-specific DNA-binding transcription factor activity  
+- GO:0006355 – regulation of transcription, DNA-templated  
+- GO:0007275 – multicellular organism development  
+- GO:0005634 – nucleus  
+
+---
+
+## Phylogenetic Analysis
+- Homologous protein sequences identified by BLAST were aligned using MSA.
+- A **Neighbor-Joining phylogenetic tree** was generated in Jalview based on percent identity distances.
+- The tree was **rooted using *Cavia porcellus*** as an outgroup.
+- Phylogenetic clustering supports orthology and functional conservation of the Engrailed-type homeobox protein.
+
+---
+
+## Repository Structure
+
 
